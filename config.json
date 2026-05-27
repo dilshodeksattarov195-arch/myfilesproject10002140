@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepncrypt",
+        "uuid": 8403780,
+        "checksum": "fnt0zd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
